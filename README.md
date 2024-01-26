@@ -16,7 +16,10 @@
 </div>
 
 <div align="center">
-<img width="600" src="https://github.com/Muneebweb426/Muneebweb426/blob/main/Portfolio/FoodWebsite.png">
+<img width="600" src="https://github.com/Muneebweb426/Foodie/blob/main/FoodWebsite.png?raw=true">
+ 
+  
+</div>
 </div>
 
 
