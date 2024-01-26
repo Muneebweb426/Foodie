@@ -11,7 +11,7 @@
 
 <div align="center">
 <sub>This Food Website project is created by
-<a href="https://github.com/Muneebweb426">Valentine Fernandes </a>
+<a href="https://github.com/Muneebweb426"> Muneeb Web</a>
 </sub>
 </div>
 
